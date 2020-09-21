@@ -1,0 +1,8 @@
+{
+    "sketch": "ESP32_BT35T_pls.ino",
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=info",
+    "port": "/dev/tty.usbserial-0001",
+    "programmer": "AVRISP mkII",
+    "output": "./build_temp"
+}
